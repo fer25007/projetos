@@ -13,7 +13,7 @@ WHERE
 GROUP BY
     skills_dim.skill_id
 HAVING
-  COUNT(skills_job_dim.job_id) >= 1
+  COUNT(skills_job_dim.job_id) >= 2
 ORDER BY
     avg_salary DESC,
     demand_count DESC
