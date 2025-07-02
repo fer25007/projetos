@@ -146,18 +146,19 @@ LIMIT 25;
 Here's a breakdown of the results for top paying skills for Data Analysts in Brazil:
 - **High Demand Data Inteligence, Machine Learning/AI, Database Management Systems, Visualization Tools and Cloud Computing:** The top salary is commmanded by Databricks, showing the evaluation of Data Inteligence in the country, it is closely followed by Python and Azure.
 - **Data Analysis tools come right after, followed by databases management tools such as mysql and oracle, visualization tools in Power BI and Tableau also make an appearance.**
+  
 | Skills        | Average Salary ($) |
-|---------------|-------------------:|
-| databricks    |           100,500 |
-| python        |            82,650 |
-| azure         |            82,650 |
-| mysql         |            75,068 |
-| sas           |            75,068 |
-| sql           |            73,725 |
-| tableau       |            72,000 |
-| flow          |            64,800 |
-| power bi      |            62,734 |
-| oracle        |            50,400 |
+|---------------|------------------- |
+| databricks    |  100,500           |
+| python        |  82,650            |
+| azure         |  82,650            |
+| mysql         |  75,068            |
+| sas           |  75,068            |
+| sql           |  73,725            |
+| tableau       |  72,000            |
+| flow          |  64,800            |
+| power bi      |  62,734            |
+| oracle        |  50,400            |
 
 *Table of the average salary for the top 10 paying skills for data analysts in Brazil*
 
