@@ -1,6 +1,6 @@
 SELECT 
     skills,
-    COUNT(skills_job_dim.job_id) AS demanded_count
+    COUNT(skills_job_dim.job_id) AS demand_count
 FROM job_postings_fact
 INNER JOIN skills_job_dim ON job_postings_fact.job_id = skills_job_dim.job_id
 INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
@@ -9,5 +9,5 @@ job_location = 'Brazil'
 GROUP BY
     skills
 ORDER BY
-    demanded_count DESC
+    demand_count DESC
 LIMIT 5
